@@ -4,7 +4,7 @@
 
 ## 📥 Скачать последнюю версию
 
-https://github.com/niguchal/iebigon/releases/download/v1/HEMA_Scoreboard.exe
+https://github.com/niguchal/iebigon/releases/tag/v1.0.1
 
 ## 🎮 Управление
 - → ← : управление счетом
